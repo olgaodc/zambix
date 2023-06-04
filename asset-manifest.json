@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/olgaodc/zambix.git/static/css/main.42fe8eb7.css",
+    "main.js": "/olgaodc/zambix.git/static/js/main.c34720c2.js",
+    "static/js/787.cb80bf76.chunk.js": "/olgaodc/zambix.git/static/js/787.cb80bf76.chunk.js",
+    "static/media/duck.jpg": "/olgaodc/zambix.git/static/media/duck.36d81b5773030b5174f6.jpg",
+    "index.html": "/olgaodc/zambix.git/index.html",
+    "main.42fe8eb7.css.map": "/olgaodc/zambix.git/static/css/main.42fe8eb7.css.map",
+    "main.c34720c2.js.map": "/olgaodc/zambix.git/static/js/main.c34720c2.js.map",
+    "787.cb80bf76.chunk.js.map": "/olgaodc/zambix.git/static/js/787.cb80bf76.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.42fe8eb7.css",
+    "static/js/main.c34720c2.js"
+  ]
+}
