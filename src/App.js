@@ -13,9 +13,6 @@ const App = () => {
           <Route path="/contacts" element={<Contacts/>}/>
         </Routes> 
       </BrowserRouter>
-      {/* <Navbar/>
-      <Content/>
-      <Footer/> */}
     </div>
   );
 }
