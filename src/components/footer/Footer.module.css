@@ -1,0 +1,15 @@
+.footerWrapper {
+    background-color: rgb(210, 138, 30);
+}
+
+.footer {
+    display: flex;
+    justify-content: center;
+    padding: 20px 0;
+}
+
+.footerInfo {
+    font-size: 14px;
+    font-weight: 500;
+    text-align: center;
+}

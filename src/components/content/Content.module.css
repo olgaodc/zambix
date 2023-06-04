@@ -1,0 +1,39 @@
+.content {
+    margin: 80px 0 120px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+    height: calc(100vh - 289px);
+    justify-content: center;
+}
+
+.contentImage {
+    width: 40%;
+    height: 500px;
+    object-fit: cover;
+}
+
+.contentText {
+    width: 50%;
+}
+
+@media (max-width: 804px) {    
+    .content {
+        flex-direction: column;
+        height: unset;
+    }
+
+    .contentImage, .contentText {
+        width: 80%;
+    }
+}
+
+@media (max-width: 529px) {    
+   .contentImage {
+    height: 350px;
+   }
+
+    .contentImage, .contentText {
+        width: 100%;
+    }
+}
