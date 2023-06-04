@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/zambix/static/css/main.42fe8eb7.css",
-    "main.js": "/zambix/static/js/main.1305b17d.js",
+    "main.css": "/zambix/static/css/main.d072c51b.css",
+    "main.js": "/zambix/static/js/main.077797a3.js",
     "static/js/787.cb80bf76.chunk.js": "/zambix/static/js/787.cb80bf76.chunk.js",
     "static/media/duck.jpg": "/zambix/static/media/duck.36d81b5773030b5174f6.jpg",
     "index.html": "/zambix/index.html",
-    "main.42fe8eb7.css.map": "/zambix/static/css/main.42fe8eb7.css.map",
-    "main.1305b17d.js.map": "/zambix/static/js/main.1305b17d.js.map",
+    "main.d072c51b.css.map": "/zambix/static/css/main.d072c51b.css.map",
+    "main.077797a3.js.map": "/zambix/static/js/main.077797a3.js.map",
     "787.cb80bf76.chunk.js.map": "/zambix/static/js/787.cb80bf76.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.42fe8eb7.css",
-    "static/js/main.1305b17d.js"
+    "static/css/main.d072c51b.css",
+    "static/js/main.077797a3.js"
   ]
 }
